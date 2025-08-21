@@ -22,7 +22,7 @@ also make sure to have the mt5 terminal installed and make sure you login to you
 
 Quick Start
 pip install MetaTrader5 pandas numpy
-python screener.py
+python scanner.py
 Output (every 30 min):
 
 Best pair to trade (H2): USDJPYm – Score 0.82, ATR 0.00123, Price ↑1.7 %
